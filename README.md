@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [twolfson/line-height](http://github.com/twolfson/line-height). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/twolfson-line-height`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # line-height [![Donate on Gittip](http://badgr.co/gittip/twolfson.png)](https://www.gittip.com/twolfson/)
 
 Calculate line-height of an HTML element (IE6 compatible)
